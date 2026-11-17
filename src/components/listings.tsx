@@ -66,7 +66,7 @@ export function Listings() {
                   </div>
                 </dl>
                 <a
-                  href="#contact"
+                  href="/contact"
                   className="mt-8 inline-flex border-b border-ink/30 pb-1 font-sans text-xs tracking-[0.24em] text-ink uppercase transition-colors hover:border-ink"
                 >
                   Inquire

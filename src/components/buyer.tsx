@@ -58,7 +58,7 @@ export function Buyer() {
           </ul>
 
           <a
-            href="#contact"
+            href="/contact"
             className="mt-10 inline-flex h-11 items-center justify-center border border-cream bg-cream px-7 font-sans text-xs tracking-[0.28em] text-ink uppercase transition-colors hover:bg-transparent hover:text-cream"
           >
             Start your search

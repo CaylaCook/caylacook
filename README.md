@@ -1,6 +1,6 @@
 # Cayla Cook
 
-Personal realtor website for [caylacook.com](https://caylacook.com) — Middle Tennessee (Nashville, Franklin, Brentwood, and nearby communities). Brand-first landing with featured homes, approach, and contact.
+Personal realtor website for [caylacook.com](https://caylacook.com) — Middle Tennessee (Nashville, Franklin, Brentwood, and nearby communities). Multi-page site: Home, Meet, Buyer, Seller, Reviews, and Contact.
 
 **Contact:** (615) 618-9499 · cayla@caylacook.com
 

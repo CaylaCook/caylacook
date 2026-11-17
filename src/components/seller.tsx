@@ -51,7 +51,7 @@ export function Seller() {
         </ul>
 
         <a
-          href="#contact"
+          href="/contact"
           className="mt-12 inline-flex h-11 items-center justify-center border border-ink bg-ink px-7 font-sans text-xs tracking-[0.28em] text-cream uppercase transition-colors hover:bg-ink/90"
         >
           Talk about listing

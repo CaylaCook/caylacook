@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { Logo } from "@/components/logo";
 
 export function Hero() {
@@ -40,18 +41,18 @@ export function Hero() {
         </div>
 
         <div className="mt-10 flex animate-rise-delay-2 flex-wrap items-center justify-center gap-4">
-          <a
-            href="#contact"
+          <Link
+            href="/contact"
             className="inline-flex h-11 items-center justify-center border border-cream bg-cream px-7 font-sans text-xs tracking-[0.28em] text-ink uppercase transition-[background-color,color,transform] duration-300 hover:bg-transparent hover:text-cream"
           >
             Start a conversation
-          </a>
-          <a
-            href="#buyer"
+          </Link>
+          <Link
+            href="/buyer"
             className="inline-flex h-11 items-center justify-center border border-cream/45 px-7 font-sans text-xs tracking-[0.28em] text-cream uppercase transition-[border-color,background-color] duration-300 hover:border-cream hover:bg-cream/5"
           >
             Work with Cayla
-          </a>
+          </Link>
         </div>
       </div>
     </section>
