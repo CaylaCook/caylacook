@@ -10,14 +10,14 @@ export function Hero() {
       <div className="absolute inset-0">
         <Image
           src="/images/hero.jpg"
-          alt="Contemporary residence at dusk with warm interior light"
+          alt="Modern Nashville high-rise living room overlooking the city skyline"
           fill
           priority
           sizes="100vw"
-          className="animate-ken-slow scale-105 object-cover object-center"
+          className="animate-ken-slow scale-105 object-cover object-[center_45%]"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/55 to-ink/25" />
-        <div className="absolute inset-0 bg-ink/20" />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/65 to-ink/35" />
+        <div className="absolute inset-0 bg-ink/25" />
       </div>
 
       <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-col items-center px-5 pb-16 pt-28 text-center sm:px-8 sm:pb-24 sm:pt-32">
