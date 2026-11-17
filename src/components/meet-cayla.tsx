@@ -20,17 +20,29 @@ export function MeetCayla() {
             Meet Cayla
           </p>
           <h2 className="mt-4 max-w-lg font-display text-4xl leading-[1.1] tracking-tight sm:text-5xl">
-            A clear guide for every move you make
+            People first. Homes that follow.
           </h2>
-          <p className="mt-6 max-w-md font-sans text-base leading-relaxed text-ink/70">
-            Cayla Cook helps buyers and sellers across Middle Tennessee — from
-            Nashville and Franklin to Brentwood, Mount Juliet, Hendersonville,
-            Spring Hill, and nearby communities. Expect honest advice, calm
-            negotiation, and a relationship that lasts long after closing.
-          </p>
-          <p className="mt-4 max-w-md font-sans text-base leading-relaxed text-ink/70">
-            Buy. Sell. Repeat — with someone who stays.
-          </p>
+          <div className="mt-6 max-w-xl space-y-5 font-sans text-base leading-relaxed text-ink/70">
+            <p>
+              With over 12 years of experience in Middle Tennessee real estate,
+              Cayla Cook knows a thing or two about buying, selling, and
+              everything in between. But for her, real estate is about so much
+              more than houses—it&apos;s about people, relationships, and making
+              the process a whole lot less stressful (and a lot more fun!).
+            </p>
+            <p>
+              Known for her down-to-earth personality, honesty, and a little
+              sense of humor, Cayla believes her clients should feel more like
+              friends than transactions. Whether you&apos;re buying your first
+              home, selling your fifth, or just figuring out your next move,
+              she&apos;s here to guide you every step of the way.
+            </p>
+            <p>
+              Because the best part of real estate isn&apos;t the closing
+              table—it&apos;s the relationships that last long after the keys
+              are handed over.
+            </p>
+          </div>
           <a
             href="#contact"
             className="mt-10 inline-flex h-11 items-center justify-center border border-ink bg-ink px-7 font-sans text-xs tracking-[0.28em] text-cream uppercase transition-colors hover:bg-ink/90"
