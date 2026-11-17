@@ -41,10 +41,10 @@ export function Hero() {
             Start a conversation
           </a>
           <a
-            href="#homes"
+            href="#buyer"
             className="inline-flex h-11 items-center justify-center border border-cream/45 px-7 font-sans text-xs tracking-[0.28em] text-cream uppercase transition-[border-color,background-color] duration-300 hover:border-cream hover:bg-cream/5"
           >
-            View homes
+            Work with Cayla
           </a>
         </div>
       </div>
