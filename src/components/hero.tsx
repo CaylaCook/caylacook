@@ -15,17 +15,17 @@ export function Hero() {
           fill
           priority
           sizes="100vw"
-          className="animate-ken-slow scale-105 object-cover object-[center_30%]"
+          className="animate-ken-slow scale-105 object-cover object-[70%_30%]"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/70 to-ink/40" />
-        <div className="absolute inset-0 bg-ink/30" />
+        <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/75 to-ink/25" />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-transparent to-ink/35" />
       </div>
 
-      <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-col items-center px-5 pb-16 pt-28 text-center sm:px-8 sm:pb-24 sm:pt-32">
+      <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-col items-start px-5 pb-16 pt-28 text-left sm:px-8 sm:pb-24 sm:pt-32">
         <div className="animate-rise">
           <Logo
             priority
-            className="mx-auto h-28 w-auto max-w-[min(100%,22rem)] sm:h-36 sm:max-w-[28rem] md:h-44 md:max-w-[34rem]"
+            className="h-28 w-auto max-w-[min(100%,22rem)] sm:h-36 sm:max-w-[28rem] md:h-44 md:max-w-[34rem]"
           />
         </div>
 
@@ -33,14 +33,14 @@ export function Hero() {
           <p className="font-display text-2xl leading-snug tracking-tight text-cream sm:text-3xl md:text-[2rem]">
             Your Home. Your Next Chapter. Your Realtor for Life.
           </p>
-          <p className="mx-auto max-w-md font-sans text-sm leading-relaxed text-cream/85 sm:text-base">
+          <p className="max-w-md font-sans text-sm leading-relaxed text-cream/85 sm:text-base">
             Helping buyers and sellers make moves across Middle Tennessee—with
             12+ years of experience, a personal touch, and relationships that
             last long after closing.
           </p>
         </div>
 
-        <div className="mt-10 flex animate-rise-delay-2 flex-wrap items-center justify-center gap-4">
+        <div className="mt-10 flex animate-rise-delay-2 flex-wrap items-center justify-start gap-4">
           <Link
             href="/contact"
             className="inline-flex h-11 items-center justify-center border border-cream bg-cream px-7 font-sans text-xs tracking-[0.28em] text-ink uppercase transition-[background-color,color,transform] duration-300 hover:bg-transparent hover:text-cream"
