@@ -11,14 +11,14 @@ export function Hero() {
       <div className="absolute inset-0">
         <Image
           src="/images/hero.jpg"
-          alt="Cayla Cook in a modern Nashville home dining and kitchen space"
+          alt="Cayla Cook in a modern living room, leaning over a cream sofa"
           fill
           priority
           sizes="100vw"
-          className="animate-ken-slow scale-105 object-cover object-[70%_30%]"
+          className="animate-ken-slow scale-105 object-cover object-[center_28%]"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/75 to-ink/25" />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink/90 via-transparent to-ink/35" />
+        <div className="absolute inset-0 bg-gradient-to-r from-ink/95 via-ink/55 to-ink/15" />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-transparent to-ink/30" />
       </div>
 
       <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-col items-start px-5 pb-16 pt-28 text-left sm:px-8 sm:pb-24 sm:pt-32">
