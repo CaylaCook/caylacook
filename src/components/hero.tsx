@@ -10,7 +10,7 @@ export function Hero() {
     >
       <div className="absolute inset-0">
         <Image
-          src="/images/hero.jpg"
+          src="/images/hero-living-room.jpg"
           alt="Cayla Cook in a modern living room, leaning over a cream sofa"
           fill
           priority
