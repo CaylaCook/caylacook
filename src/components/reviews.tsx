@@ -18,8 +18,8 @@ export function Reviews() {
             What clients say
           </h2>
           <p className="font-sans text-base leading-relaxed text-cream/70">
-            {REVIEW_AGGREGATE.rating.toFixed(1)}-star Zillow reviews — showing
-            five-star feedback only.
+            {REVIEW_AGGREGATE.count} five-star reviews on Zillow — a selection
+            below. Only 5-star feedback is shown here.
           </p>
           <a
             href={ZILLOW_PROFILE_URL}
