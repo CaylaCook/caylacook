@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     template: "%s | Cayla Cook",
   },
   description:
-    "Cayla Cook — your realtor for life across Middle Tennessee. Buying and selling in Nashville, Franklin, Brentwood, and nearby communities. Call (615) 618-9499.",
+    "Your Home. Your Next Chapter. Your Realtor for Life. Cayla Cook helps buyers and sellers across Middle Tennessee with 12+ years of experience. Call (615) 618-9499.",
   metadataBase: new URL("https://caylacook.com"),
   openGraph: {
     title: "Cayla Cook | Middle Tennessee Realtor",

@@ -28,10 +28,16 @@ export function Hero() {
           />
         </div>
 
-        <p className="mt-8 max-w-md animate-rise-delay font-sans text-sm leading-relaxed text-cream/85 sm:text-base">
-          Your realtor for life across Middle Tennessee — Nashville, Franklin,
-          Brentwood, and the communities around them.
-        </p>
+        <div className="mt-8 max-w-xl animate-rise-delay space-y-4">
+          <p className="font-display text-2xl leading-snug tracking-tight text-cream sm:text-3xl md:text-[2rem]">
+            Your Home. Your Next Chapter. Your Realtor for Life.
+          </p>
+          <p className="mx-auto max-w-md font-sans text-sm leading-relaxed text-cream/85 sm:text-base">
+            Helping buyers and sellers make moves across Middle Tennessee—with
+            12+ years of experience, a personal touch, and relationships that
+            last long after closing.
+          </p>
+        </div>
 
         <div className="mt-10 flex animate-rise-delay-2 flex-wrap items-center justify-center gap-4">
           <a
