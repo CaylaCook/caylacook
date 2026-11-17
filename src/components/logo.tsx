@@ -20,27 +20,10 @@ export function Logo({
     <Image
       src={isMark ? "/brand/logo-mark.png" : "/brand/logo.png"}
       alt="Cayla Cook"
-      width={isMark ? 648 : 1774}
-      height={isMark ? 432 : 887}
+      width={isMark ? 696 : 1248}
+      height={isMark ? 502 : 696}
       priority={priority}
       className={cn("h-auto w-auto object-contain", className)}
     />
-  );
-}
-
-export function Wordmark({
-  className,
-}: {
-  className?: string;
-}) {
-  return (
-    <span
-      className={cn(
-        "font-display text-[0.7rem] font-medium tracking-[0.42em] text-cream uppercase sm:text-xs",
-        className,
-      )}
-    >
-      Cayla Cook
-    </span>
   );
 }

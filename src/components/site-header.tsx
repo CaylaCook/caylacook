@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Logo, Wordmark } from "@/components/logo";
+import { Logo } from "@/components/logo";
 import { cn } from "@/lib/utils";
 
 const links = [
@@ -33,14 +33,11 @@ export function SiteHeader() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5 sm:h-20 sm:px-8">
         <a
           href="#top"
-          className="group flex items-center gap-3"
+          className="group flex items-center"
           aria-label="Cayla Cook home"
         >
-          <Logo
-            variant="mark"
-            className="h-9 w-auto transition-transform duration-500 group-hover:scale-[1.03] sm:h-11"
-          />
-          <Wordmark className="hidden sm:inline" />
+          {/* Full lockup — avoids the clipped monogram crop */}
+          <Logo className="h-10 w-auto max-w-[10.5rem] transition-transform duration-500 group-hover:scale-[1.02] sm:h-12 sm:max-w-[13rem]" />
         </a>
 
         <nav className="flex items-center gap-1 sm:gap-2" aria-label="Primary">
