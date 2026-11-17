@@ -29,8 +29,8 @@ export function Hero() {
           />
         </div>
 
-        <div className="mt-8 max-w-xl animate-rise-delay space-y-4">
-          <p className="font-display text-2xl leading-snug tracking-tight text-cream sm:text-3xl md:text-[2rem]">
+        <div className="mt-8 w-full max-w-3xl animate-rise-delay space-y-4">
+          <p className="whitespace-nowrap font-display text-[clamp(1.05rem,3.4vw,2rem)] leading-snug tracking-tight text-cream">
             Your Home. Your Next Chapter. Your Realtor for Life.
           </p>
           <p className="max-w-md font-sans text-sm leading-relaxed text-cream/85 sm:text-base">
