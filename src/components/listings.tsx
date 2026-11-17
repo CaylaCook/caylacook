@@ -1,5 +1,11 @@
 import Image from "next/image";
-import { listings } from "@/data/listings";
+import { listings, type ListingStatus } from "@/data/listings";
+
+const statusClass: Record<ListingStatus, string> = {
+  "For Sale": "bg-ink text-cream",
+  "For Lease": "border border-ink text-ink",
+  Sold: "bg-ink/10 text-ink/65",
+};
 
 export function Listings() {
   return (
@@ -13,8 +19,8 @@ export function Listings() {
             Spaces with presence
           </h2>
           <p className="mt-4 font-sans text-base leading-relaxed text-ink/70">
-            A curated look at homes across Middle Tennessee. Sample listings for
-            the site preview — swap in your live inventory anytime.
+            Homes on the market now, and recent sales across Nashville and
+            Franklin.
           </p>
         </div>
 
@@ -29,27 +35,69 @@ export function Listings() {
                   index % 2 === 1 ? "md:order-2" : ""
                 }`}
               >
-                <Image
-                  src={home.image}
-                  alt={home.name}
-                  fill
-                  sizes="(max-width: 768px) 100vw, 58vw"
-                  className="object-cover transition-transform duration-700 ease-out group-hover:scale-[1.03]"
-                />
+                {home.href ? (
+                  <a
+                    href={home.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="absolute inset-0"
+                  >
+                    <Image
+                      src={home.image}
+                      alt={`${home.name}, ${home.location}`}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 58vw"
+                      className="object-cover transition-transform duration-700 ease-out group-hover:scale-[1.03]"
+                    />
+                  </a>
+                ) : (
+                  <Image
+                    src={home.image}
+                    alt={`${home.name}, ${home.location}`}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 58vw"
+                    className="object-cover transition-transform duration-700 ease-out group-hover:scale-[1.03]"
+                  />
+                )}
               </div>
 
               <div
                 className={`md:col-span-5 ${index % 2 === 1 ? "md:order-1" : ""}`}
               >
-                <p className="font-sans text-[0.65rem] tracking-[0.28em] text-ink/50 uppercase">
-                  {home.status}
-                </p>
+                <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
+                  <p
+                    className={`inline-flex items-center px-2.5 py-1 font-sans text-[0.65rem] tracking-[0.28em] uppercase ${statusClass[home.status]}`}
+                  >
+                    {home.status}
+                  </p>
+                  {home.closed ? (
+                    <p className="font-sans text-xs tracking-wide text-ink/55">
+                      {home.closed}
+                    </p>
+                  ) : null}
+                </div>
                 <h3 className="mt-3 font-display text-3xl tracking-tight text-ink sm:text-4xl">
-                  {home.name}
+                  {home.href ? (
+                    <a
+                      href={home.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="transition-opacity hover:opacity-70"
+                    >
+                      {home.name}
+                    </a>
+                  ) : (
+                    home.name
+                  )}
                 </h3>
                 <p className="mt-2 font-sans text-sm tracking-wide text-ink/65">
                   {home.location}
                 </p>
+                {home.mls ? (
+                  <p className="mt-1 font-sans text-xs tracking-[0.16em] text-ink/45 uppercase">
+                    MLS {home.mls}
+                  </p>
+                ) : null}
                 <p className="mt-6 font-display text-2xl text-ink">{home.price}</p>
                 <dl className="mt-5 flex flex-wrap gap-x-6 gap-y-2 font-sans text-sm text-ink/70">
                   <div>
