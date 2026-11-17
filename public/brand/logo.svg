@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" fill="none" role="img" aria-label="Cayla Cook">
+  <g fill="#F2EDE4">
+    <path d="M214 24c-58.5 0-106 47.5-106 106s47.5 106 106 106c33.2 0 62.8-14.5 83.2-37.2l-28.6-26.4c-12.6 14.2-31 23.2-51.6 23.2-36.4 0-65.8-29.4-65.8-65.6s29.4-65.6 65.8-65.6c20.6 0 39 9 51.6 23.2l28.6-26.4C276.8 38.5 247.2 24 214 24z"/>
+    <path d="M306 24c58.5 0 106 47.5 106 106s-47.5 106-106 106c-33.2 0-62.8-14.5-83.2-37.2l28.6-26.4c12.6 14.2 31 23.2 51.6 23.2 36.4 0 65.8-29.4 65.8-65.6s-29.4-65.6-65.8-65.6c-20.6 0-39 9-51.6 23.2l-28.6-26.4C243.2 38.5 272.8 24 306 24z"/>
+  </g>
+  <text x="260" y="268" text-anchor="middle" fill="#F2EDE4" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="16" font-weight="500">CAYLA COOK</text>
+  <line x1="118" y1="286" x2="232" y2="286" stroke="#F2EDE4" stroke-width="1.35"/>
+  <line x1="288" y1="286" x2="402" y2="286" stroke="#F2EDE4" stroke-width="1.35"/>
+</svg>
