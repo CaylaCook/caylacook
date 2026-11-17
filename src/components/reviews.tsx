@@ -19,7 +19,7 @@ export function Reviews() {
           </h2>
           <p className="font-sans text-base leading-relaxed text-cream/70">
             {REVIEW_AGGREGATE.count} five-star reviews on Zillow — a selection
-            below. Only 5-star feedback is shown here.
+            below. Only overall 5.0 feedback is shown here.
           </p>
           <a
             href={ZILLOW_PROFILE_URL}
@@ -43,9 +43,16 @@ export function Reviews() {
                 className="border-t border-cream/15 pt-8"
               >
                 <p className="font-sans text-[0.65rem] tracking-[0.28em] text-cream/45 uppercase">
-                  ★★★★★
+                  ★★★★★ 5.0
                 </p>
-                <p className="mt-4 font-display text-xl leading-snug text-cream sm:text-2xl">
+                {review.headline ? (
+                  <p className="mt-4 font-sans text-sm font-medium leading-snug text-cream/85">
+                    {review.headline}
+                  </p>
+                ) : null}
+                <p
+                  className={`font-display text-xl leading-snug text-cream sm:text-2xl ${review.headline ? "mt-3" : "mt-4"}`}
+                >
                   “{review.quote}”
                 </p>
                 <p className="mt-6 font-sans text-sm tracking-wide text-cream/80">

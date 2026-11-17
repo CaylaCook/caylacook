@@ -3,19 +3,30 @@
   "profileUrl": "https://www.zillow.com/profile/cayla16/",
   "aggregate": {
     "rating": 5,
-    "count": 34
+    "count": 35
   },
   "importedAt": "2026-11-17",
-  "note": "Five-star Zillow reviews only. Zillow blocks live scraping; content imported from publicly aggregated Zillow reviews. Refresh by re-running the import.",
+  "note": "Five-star Zillow reviews only (overall rating 5.0). Includes enrichments from Cayla’s Zillow profile screenshots. Zillow blocks live scraping.",
   "reviews": [
     {
+      "quote": "Cayla is a class act realtor. She has sold my parents 2 homes, my aunt her home and us our home. She listens and doesn't rush, prioritizes what you're looking for and helps you find exactly what you need at the price you need it at. If you are looking for a realtor, she's the only one I would recommend. We are so happy with the entire process and our home is everything we could have imagined.",
+      "name": "Meghan Case",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2026-07-09",
+      "headline": "Bought a Single Family home in 2026 in Nocturne forest, Nashville, TN.",
+      "id": "screenshot-meghan-case-2026-07-09"
+    },
+    {
       "quote": "I met Cayla when I needed to purchase a home in the Nashville area, as well as sell a house in TN. My first (inaccurrate) impression of Cayla was that she was a cute Southern Belle and wouldnt be aggressive enough for my situation.I was moving across the country with horses,dogs, cats and goats with a shott time frame and would need to find the perfect spot.Within 32 seconds, upon meeting Cayla, I knew I was wrong in my initial thoughts of meeting Cayla. In both helping me buy and sell a house, she was fierce and beyond competent in her role.  She even answered my frantic phone calls on Saturday mornings or while she was on vacation.  Our working professional relationship merged into a friendship and Im very happy to say Cayla is now a good friend.I recommend Cayla and her Team to anyone who is looking for a hard working, competent and knowledgeable team.",
-      "name": "Mzak6",
+      "name": "mzak6",
       "detail": "5-star review · Zillow",
       "rating": 5,
       "source": "zillow",
       "date": "2023-07-18",
-      "id": "91be3f35-b049-5ece-bbf4-c9f34258283b"
+      "id": "91be3f35-b049-5ece-bbf4-c9f34258283b",
+      "headline": "Bought and sold a Single Family home in 2023 in Goodlettsville, TN."
     },
     {
       "quote": "Cayla is an outstanding agent. Not only is she an expert in her local areas, she is also very good at helping a buyer fine tune what they really need and want. She listens!  We have bought and sold many properties over the years and hands down, she's been the best to work with!",
@@ -64,12 +75,13 @@
     },
     {
       "quote": "Can I give 10 stars for negotiation skills? Hands down the best Realtor I’ve ever worked with. Cayla and team absolutely rock. You’ll love working with her and you’ll have absolutely nothing to worry about.",
-      "name": "Mpowerstn",
+      "name": "Mitch Powers",
       "detail": "5-star review · Zillow",
       "rating": 5,
       "source": "zillow",
       "date": "2022-03-05",
-      "id": "348f379a-8e24-53d2-8b91-521d84344662"
+      "id": "348f379a-8e24-53d2-8b91-521d84344662",
+      "headline": "Sold a Single Family home in 2022 in Stadium area, Nashville, TN."
     },
     {
       "quote": "Cayla was very prompt with responses, knowledgeable, professional, and kind.  It was a joy to work with her and to finally meet her at closing.  It was challenging for us living out of town and not even seeing our property before purchasing and not actually purchasing a home in many years.  She made things easy for us with a  her knowledge and experience that allowed us to purchase the condo that we wanted.  Many thanks to Cayla",
@@ -91,12 +103,13 @@
     },
     {
       "quote": "Cayla was the best real estate agent one could hope for. She was extremely skilled/knowledgeable in all domains including local knowledge, process expertise and negotiation skill. She was extremely responsive and works very hard. She is very warm and personable. She ensured that we got our dream house and did not let us settle for less. We will be recommending her to all of our friends and colleagues.",
-      "name": "Jonahfox87",
+      "name": "jonahfox87",
       "detail": "5-star review · Zillow",
       "rating": 5,
       "source": "zillow",
       "date": "2021-07-15",
-      "id": "d4b24431-db71-51f7-997c-0ca2a989d6c8"
+      "id": "d4b24431-db71-51f7-997c-0ca2a989d6c8",
+      "headline": "Bought a Single Family home in 2021 in Melrose, Nashville, TN."
     },
     {
       "quote": "Cayla stood by us for over a year, drove hundreds of miles to look at countless houses for us while we lived in California.  We had a house go under contract in June of 2020, flew out to take a closer look and after a thorough inspection, the house needed too much work to justify the cost.  Cayla supported us through the process and didn’t hesitate to continue the search for us.  We moved to Nashville the next month and decided to land in a rental while we got more familiar with the new city.  She still would check in and see if we needed anything, even though the house search was on pause.  When we started our search again at the beginning of 2021 Cayla did what she does best, put her all into finding us the best house for our family.  She didn’t want to sell us the most expensive house, but make sure we found a location, house, and neighborhood that would be best for our family of 5.  After six offers, our seventh offer was finally accepted and we had requested a 40 day escrow to prepare us for a construction loan (FHA 203k).  There were so many different issues we ran into (all of which were out of control) but Cayla was consistent, calm and negotiated 3 extensions with the listing agent.  I’m positive there were many conversations and negotiations she had that we didn’t know about that helped us successfully close on the house 60 days later.  If you are looking for an agent, look no further.  Cayla will make sure you are taken care of and that you truly get the house you deserve.  THANK YOU Cayla for all your help in getting our family into our first home!",

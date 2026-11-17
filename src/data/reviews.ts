@@ -7,6 +7,7 @@ export type Review = {
   rating: number;
   source: string;
   date?: string;
+  headline?: string;
 };
 
 export const ZILLOW_PROFILE_URL =
@@ -32,16 +33,27 @@ function displayName(raw: string) {
   return name;
 }
 
-/** Five-star reviews only, newest first when dates exist. */
+function formatDetail(date?: string) {
+  if (!date) return "5.0 · Zillow";
+  const [y, m, d] = date.split("-").map(Number);
+  if (!y || !m || !d) return "5.0 · Zillow";
+  return `5.0 · ${m}/${d}/${y} · Zillow`;
+}
+
+/** Five-star reviews only (overall 5.0). Prefer reviews with Zillow headlines, then newest. */
 export function getFiveStarReviews(limit = 6): Review[] {
   const all = (reviewsJson as { reviews: Review[] }).reviews || [];
   return all
     .filter((r) => Number(r.rating) === 5 && r.quote?.trim())
-    .sort((a, b) => (b.date || "").localeCompare(a.date || ""))
+    .sort((a, b) => {
+      const head = Number(Boolean(b.headline)) - Number(Boolean(a.headline));
+      if (head !== 0) return head;
+      return (b.date || "").localeCompare(a.date || "");
+    })
     .slice(0, limit)
     .map((r) => ({
       ...r,
       name: displayName(r.name),
-      detail: "5-star review · Zillow",
+      detail: formatDetail(r.date),
     }));
 }
