@@ -23,6 +23,7 @@ Open the URL printed in the terminal (defaults to port **3456**).
 
 - **Logo**: `src/components/logo.tsx` and `public/brand/logo.svg` (vector recreation of the CC monogram wordmark)
 - **Listings**: `src/data/listings.ts` and images in `public/images/`
+- **Reviews**: `src/data/reviews.json` — five-star Zillow reviews only (live Zillow scraping is blocked; refresh by re-importing)
 - **Contact**: form opens mail to `cayla@caylacook.com`
 
 ## Scripts
