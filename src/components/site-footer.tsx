@@ -35,6 +35,14 @@ export function SiteFooter() {
             {CONTACT.domain}
           </a>
         </div>
+        <div className="max-w-md space-y-1 font-sans text-sm leading-relaxed text-cream/65">
+          <p className="tracking-wide">{CONTACT.brokerage.name}</p>
+          <p>
+            {CONTACT.brokerage.street}
+            <br />
+            {CONTACT.brokerage.cityStateZip}
+          </p>
+        </div>
         <p className="max-w-2xl font-sans text-[0.7rem] leading-relaxed tracking-wide text-cream/40">
           Serving Nashville, Franklin, Brentwood, Mount Juliet, Lebanon,
           Gallatin, Hermitage, Hendersonville, Spring Hill, Thompson&apos;s

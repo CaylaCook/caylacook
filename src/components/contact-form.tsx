@@ -99,6 +99,14 @@ export function ContactForm() {
               </a>
             </p>
             <p className="tracking-wide">{CONTACT.domain}</p>
+            <div className="pt-2 leading-relaxed text-ink/65">
+              <p>{CONTACT.brokerage.name}</p>
+              <p>
+                {CONTACT.brokerage.street}
+                <br />
+                {CONTACT.brokerage.cityStateZip}
+              </p>
+            </div>
           </div>
         </div>
 
