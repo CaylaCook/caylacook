@@ -1,0 +1,318 @@
+{
+  "source": "zillow",
+  "profileUrl": "https://www.zillow.com/profile/cayla16/",
+  "aggregate": {
+    "rating": 5,
+    "count": 34
+  },
+  "importedAt": "2026-11-17",
+  "note": "Five-star Zillow reviews only. Zillow blocks live scraping; content imported from publicly aggregated Zillow reviews. Refresh by re-running the import.",
+  "reviews": [
+    {
+      "quote": "I met Cayla when I needed to purchase a home in the Nashville area, as well as sell a house in TN. My first (inaccurrate) impression of Cayla was that she was a cute Southern Belle and wouldnt be aggressive enough for my situation.I was moving across the country with horses,dogs, cats and goats with a shott time frame and would need to find the perfect spot.Within 32 seconds, upon meeting Cayla, I knew I was wrong in my initial thoughts of meeting Cayla. In both helping me buy and sell a house, she was fierce and beyond competent in her role.  She even answered my frantic phone calls on Saturday mornings or while she was on vacation.  Our working professional relationship merged into a friendship and Im very happy to say Cayla is now a good friend.I recommend Cayla and her Team to anyone who is looking for a hard working, competent and knowledgeable team.",
+      "name": "Mzak6",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2023-07-18",
+      "id": "91be3f35-b049-5ece-bbf4-c9f34258283b"
+    },
+    {
+      "quote": "Cayla is an outstanding agent. Not only is she an expert in her local areas, she is also very good at helping a buyer fine tune what they really need and want. She listens!  We have bought and sold many properties over the years and hands down, she's been the best to work with!",
+      "name": "User702128",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2023-04-21",
+      "id": "74c1eed6-3a2e-52e8-a4a3-f20cfb2773d9"
+    },
+    {
+      "quote": "Cayla was an absolute dream to work with on buying my first home. Not only did she go above and beyond to see the sale go through, she was an honest negotiator and did what was best for all parties. Since closing she’s checked in to be sure everything is going well. Very lucky to have her in this process!",
+      "name": "Tlhasenour",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2022-07-25",
+      "id": "b876a89b-6fe1-5e3c-99c4-2283976abbc4"
+    },
+    {
+      "quote": "When I first met Cayla, I was hesitant. She was a cute Southern Belle that I doubted could handle the competitive real estate business.  Within 2 min of interaction, I realized I had judged her incorrectly.  She suddenly reminded me of my pitbull.  She is respectful but assertive and knowledgeable.  She works tirelessly, even when sick in bed or with time change differences.Her assistant Nicole was proactive and helpful.Both ladies reinstated my confidence in customer service that seems to be lacking since covid hysteria.I was very fortunate to have Cayla and Nicole on my team to relocate across the country.",
+      "name": "Mzak6",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2022-06-22",
+      "id": "226ff139-216b-5b9d-827a-39ac19dce772"
+    },
+    {
+      "quote": "Our experience with Cayla was great . Every time we wanted to see a house we would let her know and she imediately would do arrangements so we could go see the properties. Not only that but she would always have a list of other properties we could visit.English is not our first language , she was very patient with us and always in a good moodShe was always in time in our meetingsActually we were very happy with the whole experience Cayla made it very easy for usWe are very greatefull  to have met her",
+      "name": "Carmendoreau",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2022-04-13",
+      "id": "1dd8045b-ea5c-5a38-aa25-b5c32f2ee499"
+    },
+    {
+      "quote": "It was a great experience working with Cayla. She was always available (literally) for all your questions, doubts or house viewing.She is well aware of the market, understands your need and comes out with great suggestions. She also have good knowledge of house, its construction, material, quality, etc...There were stages when we were exhausted with home searching but she kept our moral high and made us going with many great available options.Once again, it was a great experience working with Cayla and we could buy our 1st home with her help only.",
+      "name": "Pankaj V",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2022-04-12",
+      "id": "75aaecc9-3e77-5f4c-a8b5-ffe677ee3ff9"
+    },
+    {
+      "quote": "Can I give 10 stars for negotiation skills? Hands down the best Realtor I’ve ever worked with. Cayla and team absolutely rock. You’ll love working with her and you’ll have absolutely nothing to worry about.",
+      "name": "Mpowerstn",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2022-03-05",
+      "id": "348f379a-8e24-53d2-8b91-521d84344662"
+    },
+    {
+      "quote": "Cayla was very prompt with responses, knowledgeable, professional, and kind.  It was a joy to work with her and to finally meet her at closing.  It was challenging for us living out of town and not even seeing our property before purchasing and not actually purchasing a home in many years.  She made things easy for us with a  her knowledge and experience that allowed us to purchase the condo that we wanted.  Many thanks to Cayla",
+      "name": "Zuser20190907123803486",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2021-12-05",
+      "id": "ae48b9fe-1ff4-5277-8ab7-35d94972669d"
+    },
+    {
+      "quote": "Working with Cayla was absolutely fantastic.  She was so friendly and easy to have conversations with.  She was extremely knowledgeable and guided us through every step in the process.   I couldn’t recommend her more highly!",
+      "name": "Zuser20140319163553572",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2021-07-15",
+      "id": "425b1973-1083-5f27-b166-e61170534fe3"
+    },
+    {
+      "quote": "Cayla was the best real estate agent one could hope for. She was extremely skilled/knowledgeable in all domains including local knowledge, process expertise and negotiation skill. She was extremely responsive and works very hard. She is very warm and personable. She ensured that we got our dream house and did not let us settle for less. We will be recommending her to all of our friends and colleagues.",
+      "name": "Jonahfox87",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2021-07-15",
+      "id": "d4b24431-db71-51f7-997c-0ca2a989d6c8"
+    },
+    {
+      "quote": "Cayla stood by us for over a year, drove hundreds of miles to look at countless houses for us while we lived in California.  We had a house go under contract in June of 2020, flew out to take a closer look and after a thorough inspection, the house needed too much work to justify the cost.  Cayla supported us through the process and didn’t hesitate to continue the search for us.  We moved to Nashville the next month and decided to land in a rental while we got more familiar with the new city.  She still would check in and see if we needed anything, even though the house search was on pause.  When we started our search again at the beginning of 2021 Cayla did what she does best, put her all into finding us the best house for our family.  She didn’t want to sell us the most expensive house, but make sure we found a location, house, and neighborhood that would be best for our family of 5.  After six offers, our seventh offer was finally accepted and we had requested a 40 day escrow to prepare us for a construction loan (FHA 203k).  There were so many different issues we ran into (all of which were out of control) but Cayla was consistent, calm and negotiated 3 extensions with the listing agent.  I’m positive there were many conversations and negotiations she had that we didn’t know about that helped us successfully close on the house 60 days later.  If you are looking for an agent, look no further.  Cayla will make sure you are taken care of and that you truly get the house you deserve.  THANK YOU Cayla for all your help in getting our family into our first home!",
+      "name": "Iamjpmcleod",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2021-06-26",
+      "id": "6e58ca57-8f73-5cc3-b672-f9f3abdaf152"
+    },
+    {
+      "quote": "Cayla is the absolute best! I moved several hours away and when took care of everything and made sure that it was an easy process. This was the first time I ever sold a house and she helped me step by step! She is a very hard worker she had showings of my home scheduled before it was even on the market. She listed my home on Thursday at 930pm and we had 10 offers and a contract by Saturday at 630pm",
+      "name": "Jacob B",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2021-01-15",
+      "id": "8d549cda-ed27-575a-abb0-80901bbc5ae2"
+    },
+    {
+      "quote": "Cayla is what made my entire experience what it was. Not only was she completely knowledgable about the market, she professional and helpful answering all of my questions throughout the entire process. She was always available and quick to answer my calls or respond when I needed her. I was not expecting this process to be so easy and it is because she worked hard to make it that way.",
+      "name": "Epappelis",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2020-12-09",
+      "id": "80cc29d7-7bc6-59e2-88f6-1de1a98630b3"
+    },
+    {
+      "quote": "Cayla was an excellent agent when it came to selling our Green Hills townhome. From the moment we decided to sell, she was honest about staging for showings, helping us present the unit in its best light to attract the most buyers. She also kept us informed of the recommended listing price and adjusted this until the moment it was listed based on the surrounding area and market demand, making sure we were not over- or under-priced. There were additional units that had recently sold in our complex, and she reached out to buyers who \"missed out\" on those and informed them about our upcoming listing. She also held an open house and promoted the unit numerous times across her social media pages -- all of these action items got our unit under contract within a week of listing. She kept us well informed during the inspection period, and when issues with our unit arose, she had her service professionals out to resolve the problems that week. She answered every question we had and made sure we were comfortable and informed throughout the entire process. We are so grateful that we found Cayla in this Nashville market, and we would highly recommend her to anyone looking to buy or sell their property in the future.",
+      "name": "Gparker4793",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2020-09-13",
+      "id": "061a1ab3-0b3a-5c5d-83de-f1bed2ed302d"
+    },
+    {
+      "quote": "We used Cayla to buy our first home, but that statement barely scratches the surface of what all she did for us. She asked us in-depth questions to determine what was the most important to us in our home buying journey, and her thoroughness found us our dream home. She reached out to other realtors on our behalf, constantly seeking the type of home we wanted, advocating for us every step of the way. Surely, she found our dream home in our dream neighborhood and we secured it the day it hit the market. Once we were under contract, she connected us to every single professional we needed during the inspection period, enabling us to make the most informed decisions about our negotiation process. Once we closed on the property, she continued to check in and support us by connecting us with vendors to make this house OUR home. Her communication was consistent and professional -- something that is incredibly hard to find these days. I am more than happy to share my experiences with anyone else who is curious about what it is like to work with Cayla Cook -- we will not use anyone else (although, let's be honest, we plan to be in our dream home for a LONG time). We could not have done any of this without her insight, expertise, and experience in this market.",
+      "name": "Rparker543",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2020-08-31",
+      "id": "f85d77d6-09c0-54df-80c8-bd8199dde38f"
+    },
+    {
+      "quote": "We have bought two houses now.  Cayla has been the best relator a person could ask for.  She makes it so much easier to without all of the headache. She will go out of her way to help in any way she can.  That speaks volume to someone  with a work schedule like mine.",
+      "name": "Eazy R",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2020-07-30",
+      "id": "f8e7269d-dd3a-5e9a-99d0-15d578ae76d9"
+    },
+    {
+      "quote": "If you’re looking for a realtor look no further. Cayla went above and beyond in every aspect possible. Cayla was available to look at homes as soon as they came on the market, many times before they officially did. We looked at multiple homes and I was becoming defeated and started to adjust my expectations of my must-have list. Cayla saw how I was feeling and she wouldn’t let me settle. She repeatedly said “this isn’t the one but we will find the one” and boy did we! Cayla didn’t let me settle and My husband and I are now in our dream home! It’s more perfect that I could have expected. From home searching to negotiating the contract Cayla went to bat for us. She was there for every inspection, walk through and at the closing table. I thought I wouldn’t need my hand held through this process but in the end I’m so glad it was Cayla who held my hand through it. \rCould not possibly recommend Cayla any more. Your search for a realtor is over! Thank you for making our dreams come true Cayla!",
+      "name": "Zuser20150826082708068",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2019-05-17",
+      "id": "989e22b6-cccb-50ba-b464-7da2c51205f7"
+    },
+    {
+      "quote": "My wife and I just bought a house and hired Cayla to represent us and it was the best decision we could have ever made. We had lots of particulars we were needing in our new home and she was able to hunt and find properties we never even knew about. She was able to help us navigate exactly what we were really looking for and asking for when our words werent able to communicate it clearly. Then it came to negotiation and putting the offer in and she was all over it and we were able to get it much lower than we ever expected. It honestly blew me away with how aggressive she was able to be and get the job done. We will only be using Cayla moving forward on any new purchases we make. The customer service was such a huge selling point for us as you just cant find any now days. Thank you so much Cayla for making our dreams come true!!!",
+      "name": "Josh H",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2019-04-18",
+      "id": "eb16687a-84e0-5d95-ac1d-a54ea8865e1f"
+    },
+    {
+      "quote": "Cayla was amazing and worked with my short timeline and we were able to get the number 1 choice. She had great recommendations and knew all the right spots in town.",
+      "name": "Zuser20180810065922497",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2018-09-17",
+      "id": "2299579b-3ea8-5726-a15b-a8eb2ba22abf"
+    },
+    {
+      "quote": "I waited until the last minute to look for a new place as my lease was expiring. I was admittedly very particular and went in with the assumption that I would end up settling for something I wasn't crazy about. Cayla quickly had multiple options lined up for me to look over and had multiple places scheduled for viewing with only a couple days notice. We ended up finding the perfect spot for me in Midtown that was within my budget, and Cayla even negotiated a lower price and more favorable lease duration without any friction. Couldn't be more pleased with my experience.",
+      "name": "Jaaon H",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2018-09-03",
+      "id": "a78e5560-650e-5a1c-9d10-0bd7b1fd9279"
+    },
+    {
+      "quote": "I can’t thank Cayla enough for what she did for my husband and me. We live inbetween two states, NY and TN. When looking for a condo in Nashville, I was unable to travel down to TN to take part in the search. We relied on Cayla and her expertise to find us a place that we would love. Once we decided on a condo we liked she went above and beyond to help me view the property via photos and videos. She facilitated negotiations effortlessly and made it so easy for us through the closing process. Being somewhat unfamiliar with the area she also made great recommendations for contractors, bankers etc. And even though we have closed, she still continues to help us with our needs as we haven’t moved down just yet ! Beyond all of her professionalism she is also honest, kind and extremely reliable.",
+      "name": "Lmr019",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2018-06-07",
+      "id": "0f170515-ad2c-57f1-9870-9dcded2ab11f"
+    },
+    {
+      "quote": "CAYLA COOK ROCKS... AS A REALTOR...SHE ENSURED OUR SUCCESSFUL HOME PURCHASE...AND MET EVERY NEED WE HAD...I NOW CONSIDER HER FAMILY! IF YO ARE LOOKING FOR DEPENDABILITY IN A REALTOR..LOOK NO FURTHER THAN CAYLA COOK!",
+      "name": "Amicaone1010",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2018-06-06",
+      "id": "771dcfd3-4465-556c-b402-7e47a85335a8"
+    },
+    {
+      "quote": "Cayla is passionate about real estate and representing her clients in an effective manner. She is knowledgeable about the market and thoroughly enjoys what she does. The process of selling our home was so smooth and efficient. I highly recommend Cayla to represent anyone who is interested in a process that is low stress and is done with ease.",
+      "name": "Allison D",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2018-03-29",
+      "id": "79ab4788-a85c-50e0-a0fe-a745ae1eb2a5"
+    },
+    {
+      "quote": "Cayla is awesome! Very diligent. Her work ethic is out of this world! She's very patient understanding to others needs. She's not one of those people who is just trying to sell you something to make money. She's someone who truly loves what she does and with 100% of her makes you her first priority. Cayla put a contract on our house while she was in a different state. I know to some that seems like nothing but, for my family, it was everything. She has literally stopped in her tracks to answer any question and be there for myself and my family. I am 100% certain we wouldn't have found anyone else like her.",
+      "name": "User2198446",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-11-10",
+      "id": "44eb9d38-11b0-5e4b-a45d-038977c6944a"
+    },
+    {
+      "quote": "Cayla Cook was GREAT. We originally told her we wanted to list our home in June....then we switched it on last minute. She was very quick to get everything together. We sold our home in 3 days!!!\rThen that's when the heat turned up on us to find a house. Since in this INSANE market no one will entertain an offer if you have a house to sell first. Even if it's under contract we were getting beat out all over the place...I was getting super frustrated as we were closing g in on our time to find a house before we had to be out of ours. Cayla helped me look at everything calmly and even dealt with some seriously tough sellers...but in the end we ended up getting the house we wanted. \r\rThank you, Cayla!!!!",
+      "name": "User92430836",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-07-15",
+      "id": "07e6ff7e-9975-5423-84ed-7ca73ad05e56"
+    },
+    {
+      "quote": "Cayla is an outstanding realtor.  She helped us sell our home from a distance.  Cayla was readily available and always very helpful.  Her guidance was constructive and positive.  As a result we were able to sell our home quickly and as stress-free as possible.  We are so grateful for her professionalism.  Cayla was a pleasure to work with and we highly recommend her.",
+      "name": "Maryjanemceneaney",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-06-03",
+      "id": "2d530e9f-7a7d-5d62-bfae-906d068722c8"
+    },
+    {
+      "quote": "Cayla is a true professional in every aspect of buying a new home. She is friendly and patient but always has that sense of urgency to meet your criteria. We relocated from California and Cayla made the relocation a smooth process. What we liked best was that Cayla was available 24/7 which really helped with efficiency and stress reduction.We highly recommend Cayla as a real estate professional.",
+      "name": "Peter K",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-05-17",
+      "id": "689f4650-728d-5273-9d7a-44926887ae52"
+    },
+    {
+      "quote": "Cayla is supreme! I was a first time home buyer with a fairly low budget and she knew how to make me more competitive in this aggressive real estate market. She truly wanted me to find the perfect home and was honest if she felt something was not a good match for me. She was patient with me when I was indecisive and understanding of my reluctances. After finally going under contract she did an amazing job negotiating repairs/improvements so I was able to move into a perfect home! I highly recommend Cayla for a first time home buyer. I pretty much was able to sit back and relax until closing because she does work y’all. Now, she is my friend instead of my agent (until I buy again).",
+      "name": "Jeseddl",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-05-16",
+      "id": "4655e65c-f2bc-52ac-b46a-19542dea47ed"
+    },
+    {
+      "quote": "I truly enjoyed working with Cayla during my home buying process. With home buying such a stressful situation, it is great to have a compassionate, patient person who is going to be honest with you and respect your wishes. That is Cayla. The best part about it, the time and energy she invests in your home does not stop at the end of the process. She is still available to help as you continue and improve your home.",
+      "name": "Gracem357",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-03-06",
+      "id": "cc7cfe71-9dd7-5521-828a-bba40e051e3c"
+    },
+    {
+      "quote": "Looking to relocate to a new state is so challenging. Cayla's amazing personality and love for middle Tennessee helps make the process simple and exciting. I would recommend her to any one looking to buy or sell in TN - you can tell she cares and wants the best for her clients no matter what!",
+      "name": "Robinw81",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-03-02",
+      "id": "5d8d6f03-7d97-5266-9cdb-b6e52950be4f"
+    },
+    {
+      "quote": "We made the best, life changing, decision by choosing Cayla as our agent. Selling this home was a difficult decision for us as a family for many reasons. The 2nd hardest decision was choosing the right agent who would treat our home with the same care and compassion as we did. The first day we were greeted with Cayla's warm smile and charming personality. Then, we received top notch advice from her on the most effective strategy to maximize our sale.  Next came the professional photography that showcased all of the improvements that we made to our home. Throughout this process, everything went according to plan and exceeded our expectations. As a result of Cayla's hard work, attention to detail, dedication, and analytical abilities, we received high traffic and multiple offers that led directly to the sale we hoped for! By far, this was the most efficient home sale that I have experienced! I would highly recommend (and have already recommended) Cayla to my closest friends and family in addition to anyone seeking a qualified real estate agent. Thank you Cayla!",
+      "name": "Jasondaviez",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2017-01-17",
+      "id": "4fc09f46-6272-5950-b8f7-9a7611c98369"
+    },
+    {
+      "quote": "Cayla went out of her way to help me through my process. She took the extra time necessary to answer all of my questions thoroughly and regularity called to check in. I really felt like I could trust her to give me the guidance I needed. I am so happy I met her!",
+      "name": "Brady N",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2016-11-02",
+      "id": "bcf2ec46-9fd8-5d0d-9e75-d4333fc8338e"
+    },
+    {
+      "quote": "As a previous reviewer wrote, Cayla's personality makes you feel like you are in this together. We worked with Cayla on finding a new home for us in Nashville, and she was sympathetic to our needs, and extremely professional from the get-go. Our process, which we thought would take months, ended up taking less than half that time. Even though we were picky, she gave us honest opinions and helped us find the right place for us, and we never felt rushed. We never had to wait long for responses to our questions, and she would make time out of her day to show us a property when it would work best for us. Her down-to-earth attitude and honest approach to relationships with clients is rare to find. Any questions you have about your next move, start with Cayla because she'll tell it to you straight, and you won't find a realtor more knowledgeable and helpful in the Nashville area.",
+      "name": "Zuser20150825053418903",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2016-09-21",
+      "id": "1be02b6a-098f-5522-8307-e1a539b224ae"
+    },
+    {
+      "quote": "I met with a couple of realtors before meeting Cayla, so happy to have met her!  She has a great personality and very professional. Cayla listened to me and I felt like I was involved.  I had listed the home myself and quickly found out selling a house is a full time job, Cayla helped me with the timeline of things I needed to get done before the photographer came and then we would list.  \r\rShe listed my home and had a full price offer signed by the buyer and me within 30 hours of listing.  Three weeks to close and we were done!\rI am missing her already!  So organized and on top of things.",
+      "name": "Debbiechessor",
+      "detail": "5-star review · Zillow",
+      "rating": 5,
+      "source": "zillow",
+      "date": "2016-08-17",
+      "id": "41971e8f-381f-5b26-a824-31bfb26df44e"
+    }
+  ]
+}
