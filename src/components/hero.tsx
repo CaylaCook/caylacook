@@ -22,7 +22,10 @@ export function Hero() {
 
       <div className="relative z-10 mx-auto flex w-full max-w-6xl flex-col items-center px-5 pb-16 pt-28 text-center sm:px-8 sm:pb-24 sm:pt-32">
         <div className="animate-rise">
-          <Logo className="mx-auto h-28 w-auto sm:h-36 md:h-44" />
+          <Logo
+            priority
+            className="mx-auto h-28 w-auto max-w-[min(100%,22rem)] sm:h-36 sm:max-w-[28rem] md:h-44 md:max-w-[34rem]"
+          />
         </div>
 
         <p className="mt-8 max-w-md animate-rise-delay font-sans text-sm leading-relaxed text-cream/85 sm:text-base">

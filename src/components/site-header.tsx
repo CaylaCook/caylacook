@@ -31,9 +31,13 @@ export function SiteHeader() {
       )}
     >
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5 sm:h-20 sm:px-8">
-        <a href="#top" className="group flex items-center gap-3" aria-label="Cayla Cook home">
+        <a
+          href="#top"
+          className="group flex items-center gap-3"
+          aria-label="Cayla Cook home"
+        >
           <Logo
-            showWordmark={false}
+            variant="mark"
             className="h-9 w-auto transition-transform duration-500 group-hover:scale-[1.03] sm:h-11"
           />
           <Wordmark className="hidden sm:inline" />

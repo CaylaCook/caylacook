@@ -5,7 +5,7 @@ export function SiteFooter() {
   return (
     <footer className="border-t border-cream/10 bg-ink text-cream">
       <div className="mx-auto flex max-w-6xl flex-col items-center gap-6 px-5 py-14 text-center sm:px-8">
-        <Logo className="h-16 w-auto opacity-90" />
+        <Logo className="h-20 w-auto max-w-[16rem] opacity-95 sm:h-24 sm:max-w-[20rem]" />
         <p className="font-sans text-xs tracking-[0.28em] text-cream/60 uppercase">
           Your realtor for life · Middle Tennessee
         </p>
